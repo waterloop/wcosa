@@ -1,3 +1,5 @@
+**This project is not being actively worked on. This tool is still nice and can be used but no more support will be provided. Check** `a new tool wio <https://github.com/wio/wio>`__ **which provides all of what wcosa does and much more.**
+
 Waterloop Cosa
 ==============
 
