@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/waterloop/wcosa.svg?branch=master)](https://travis-ci.org/waterloop/wcosa)
 
+### This project is not being actively worked on. This tool is still nice and can be used but no more support will be provided. Check a [new tool wio](https://github.com/wio/wio) which provides everything wcosa does and more.
+
 # Waterloop Cosa
 
 Waterloop Cosa is a commandline tool used to help create, build, and upload AVR projects built using Cosa, an object-oriented platform for Arduino. This project is built on top of 
